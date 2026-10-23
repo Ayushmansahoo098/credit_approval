@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML outputs (large files)
+outputs/models/*.pkl
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# CatBoost training artifacts
+catboost_info/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
