@@ -1,4 +1,4 @@
-# Credit Approval ML — Portfolio Project
+# Credit Approval ML 
 
 Production-quality credit approval classification using the UCI Credit Approval dataset. Demonstrates modern ML best practices used in the finance/credit industry (2025–2026).
 
